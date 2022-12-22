@@ -1,0 +1,27 @@
+name: 'update readme'
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+      - name: Setup dependencies
+        run: |
+          pip install .
+      - name: Configure git user
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      - name: Update README with cogapp, commit and push
+        run: |
+          python -m cogapp -r profile/README.md
+          git add profile/README.md
+          git commit -m "(Automated commit) update README with cog" || true
+          git push
