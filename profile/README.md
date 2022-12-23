@@ -60,7 +60,7 @@ Would you like to give a talk or workshop? Would like to have the next meetup in
 
 We abide by the code of conduct defined in the Python Software Foundation (PSF). Therefore, **we stand behind being open, considerate and respectful. Gracefully accepting constructive criticism, acknowledging people's time and effort. Always focusing on what's best for the community**.
 
-More information on (python.org/psf/conduct/)[https://www.python.org/psf/conduct/].
+More information on [python.org/psf/conduct/](https://www.python.org/psf/conduct/).
 
 ## Contribute
 
