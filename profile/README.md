@@ -27,11 +27,9 @@ We welcome everyone from the community to participate! First time speaker of exp
 
 We appreciate the time, effort and interest you put in delivering your talk. To ensure we are all aligned in expectations, please be mindful of the following points when preparing/delivering your session:
 
-- Commercial intents are frowned upon
-  - Avoid "sales pitches"
+- Commercial intents are frowned upon (avoid "sales pitches")
 - Talks should be around 20 minutes (not including Q&A)
-- Be mindful of people's different levels of expertise
-  - Prior experience or list of requirements (for a tutorial/workshop) is appreciated
+- Be mindful of people's different levels of expertise (expected experience or requirements for a tutorial/workshop is a good idea)
 - Abide by the [code of conduct](code-of-conduct)
 
 ### Topics
