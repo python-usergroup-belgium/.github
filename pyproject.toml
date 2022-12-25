@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "utils"
 description = "Utilities to add dynamic information in GitHub profile."
 readme = "README.md"
-requires-python = "==3.11"
+requires-python = "==3.11.*"
 license = {text = "MIT"}
 classifiers = [
     "Programming Language :: Python :: 3",
