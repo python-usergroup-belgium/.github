@@ -1,4 +1,4 @@
-# Python user group Belgium
+# Python User Group Belgium
 
 ## What we're about
 
