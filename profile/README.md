@@ -16,7 +16,6 @@ cog.out(
 ]]] -->
 ## Upcoming events
 
-- [23/02/23 (Thu), at 18:00 - Kick-off event 🚀](https://www.meetup.com/python-user-group-belgium/events/290213450/)
 <!-- [[[end]]] -->
 
 ## Presentations
