@@ -79,8 +79,8 @@ The contributions made by sponsors play a vital role in creating a vibrant and w
 
 The success of the event is highly dependent on the collective support and involvement of its members.
 
-- Active participation and promotion of the meetup by all community members are highly encouraged
-- Third-party organizations are welcome to share information about the event to help increase awareness and participation
+- Active participation and promotion of the meetup by all community members are highly encouraged 📣
+- Third-party organizations are welcome to share information about the event to help increase awareness and participation 🤝
 
 ### Reach out
 
