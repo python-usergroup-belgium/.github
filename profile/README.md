@@ -69,6 +69,18 @@ Our aim is to create a space for the Python community in Belgium. Therefore, we 
 
 Reach out to [Murilo Cunha](mailto:murilo.k.s.cunha95@gmail.com) or [Vitale Sparacello](mailto:vitale.spara@gmail.com) if you'd like to sponsor an event. We're always looking for help with the beers, food or locations.
 
+The contributions made by sponsors play a vital role in creating a vibrant and welcoming atmosphere that encourages community involvement and active participation.
+
+- At a minimum, we expect sponsors to provide a venue that can accommodate approximately 50 seats 🪑
+- Although optional, providing food and drinks are welcomed highly and appreciated! 🍕🍻
+- Sponsors can place their banner near the presentation area and will be recognized on social media and during the event 👏
+- Activities related to recruitment or sales are not permitted during the meetup ⛔️
+
+The success of the event is highly dependent on the collective support and involvement of its members.
+
+- Active participation and promotion of the meetup by all community members are highly encouraged 📣
+- Third-party organizations are welcome to share information about the event to help increase awareness and participation 🤝
+
 ### Reach out
 
 We'd like to hear from you! Feel free to open an issue or open a pull request at [github.com/python-usergroup-belgium/.github](https://github.com/python-usergroup-belgium/.github).
