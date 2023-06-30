@@ -86,6 +86,3 @@ def url2eventstr(url: str) -> str:
         for e in events
     )
     return f"## Upcoming events\n\n{eventstr}"
-
-
-# if __name__ == "__main__":
