@@ -14,8 +14,6 @@ classifiers = [
 dependencies = [
     "requests==2.31.0",
     "cogapp==3.3.0",
-    "python-dateutil==2.8.2",
-    "loguru==0.6.0"
 ]
 
 dynamic = ["version"]
