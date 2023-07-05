@@ -2,20 +2,38 @@
 
 ## What we're about
 
+<!-- [[[cog
+import cog
+import utils
+
+cog.out(
+  utils.url2intro("https://api.meetup.com/python-user-group-belgium/")
+)
+]]] -->
 The Python User Group in Belgium is a community of Python enthusiasts who come together to learn, share, and discuss all things Python. Members of the group range from beginner to advanced levels, and everyone is welcome to join. The group meets on a regular basis to learn from presentations and workshops, share their own experiences and projects, and network with other members. In the future, the group might also host regular events such as hackathons and coding competitions, to promote Python and its uses. Whether you are a seasoned developer or just starting out with Python, the Python User Group in Belgium is the place to be for anyone interested in the language.
 
 The focus is on knowledge sharing and community building, commercial intents are frowned upon. All events are entirely free-of-charge.
+
+**Would you like to present?** Check out the next meetups and apply at [sessionize.com/python-user-group-belgium](https://sessionize.com/python-user-group-belgium/)!
+
+**Check us out at:**
+
+* [meetup.com/python-user-group-belgium](https://www.meetup.com/python-user-group-belgium/)
+* [pythonusergroup.be](https://pythonusergroup.be/)
+* [github.com/python-usergroup-belgium](https://github.com/python-usergroup-belgium)
+<!-- [[[end]]] -->
 
 <!-- [[[cog
 import cog
 import utils
 
 cog.out(
-  utils.url2eventstr("https://www.meetup.com/python-user-group-belgium/events/rss/")
+  utils.url2eventstr("https://api.meetup.com/python-user-group-belgium/events/")
 )
 ]]] -->
 ## Upcoming events
 
+👉 Join us at [Python User Group Belgium](https://www.meetup.com/python-user-group-belgium/) to stay up to date with the latest events!
 <!-- [[[end]]] -->
 
 ## Presentations
@@ -50,7 +68,11 @@ We are interested in all things Python! Would like to share but not sure where t
 
 ### Apply
 
-Would you like to give a talk or workshop? Would like to have the next meetup in your city/region? Please do reach out!
+Would you like to give a talk or workshop? Check out the next event dates and apply at
+
+- [sessionize.com/python-user-group-belgium/](https://sessionize.com/python-user-group-belgium/)
+
+Would like to have the next meetup in your city/region? Please do reach out!
 
 - [Murilo Cunha](mailto:murilo.k.s.cunha95@gmail.com)
 - [Vitale Sparacello](mailto:vitale.spara@gmail.com)
