@@ -33,7 +33,7 @@ cog.out(
 ]]] -->
 ## Upcoming events
 
-- [11/December/2023 (Mon), 18:30 - Python User Group meetup #5 @Liège (36 💁‍♀️💁‍♂️)](https://www.meetup.com/python-user-group-belgium/events/296509624/)
+👉 Join us at [Python User Group Belgium](https://www.meetup.com/python-user-group-belgium/) to stay up to date with the latest events!
 <!-- [[[end]]] -->
 
 ## Presentations
