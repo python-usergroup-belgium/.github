@@ -33,7 +33,7 @@ cog.out(
 ]]] -->
 ## Upcoming events
 
-- [29/February/2024 (Thu), 18:30 - Python User Group meetup #6 @Leuven (19 💁‍♀️💁‍♂️)](https://www.meetup.com/python-user-group-belgium/events/298456312/)
+- [29/February/2024 (Thu), 18:30 - Python User Group meetup #6 @Leuven (23 💁‍♀️💁‍♂️)](https://www.meetup.com/python-user-group-belgium/events/298456312/)
 <!-- [[[end]]] -->
 
 ## Presentations
